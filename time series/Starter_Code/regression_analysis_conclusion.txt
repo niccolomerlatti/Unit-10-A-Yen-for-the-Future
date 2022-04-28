@@ -1,0 +1,5 @@
+CONCLUSIONS
+-----------
+Does this model perform better or worse on out-of-sample data as compared to in-sample data?
+-----------
+Usally RMSE values are idealy low and this shows that the model can predict the data relativly well. The out-of-sample RMSE (0.64) is lower than the in-sample RMSE (0.84) in this case. This shows that the modle preformed better with the Out-of-sample data that the model hasn't seen before.
