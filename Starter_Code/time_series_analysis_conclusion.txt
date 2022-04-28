@@ -1,0 +1,10 @@
+CONCLUSIONS
+-----------
+Based on your time series analysis, would you buy the yen now?
+Looking at this analysis, the YEN looks will get stronger, making a good investment opportunity.
+-----------
+Is the risk of the yen expected to increase or decrease?
+Taking a look at the models it would be expected that the risk/volatility will increase, meaning that careful consideration should be taken before investing
+-----------
+Based on the model evaluation, would you feel confident in using these models for trading?
+Based on this model i wouldnt be confident in using it because the model is not a good fit due the p > 0.05. On the other hand i would if p < 0.05 as it would be a good fit.
